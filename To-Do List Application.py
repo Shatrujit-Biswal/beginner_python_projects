@@ -1,10 +1,8 @@
 '''
 Description:
-Create a simple to-do list application where users can add tasks, mark them as completed, and remove them. 
+Create a simple to-do list application where users can add tasks, display tasks, remove task and add them to a txt file. 
 This project will involve basic concepts like user input, data storage, and simple logic.
 '''
-# to-do list application
-
 def menu():
     print("""
  ---------------------
