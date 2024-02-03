@@ -51,5 +51,5 @@ def main():
             print("Exiting.....")
             break
 
-if __name__ == main():
+if __name__ == "__main__":
     main()
